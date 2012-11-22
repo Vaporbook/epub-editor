@@ -1,6 +1,6 @@
 {
   "name":"epub-editor",
-  "version":"0.1.0",
+  "version":"0.2.0",
   "description": "Epub editor",
   "keywords": ["epub"],
   "homepage": "https://github.com/Vaporbook/epub-editor",
@@ -12,7 +12,7 @@
               "web" : "http://twitter.com/vaporbook"
             },
   "dependencies": {
-    "epub-parser":">=0.1.0",
+    "epub-parser":">=0.2.0",
     "xmldom":">=0.1.13"
   },
   "devDependencies": {
