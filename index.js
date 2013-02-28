@@ -1,1 +1,1 @@
-exports.EpubEditor = require('./lib/epub-editor.js')
+module.exports = require('./lib/epub-editor.js')
